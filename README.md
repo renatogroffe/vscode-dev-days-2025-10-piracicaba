@@ -28,7 +28,27 @@ Deixamos aqui nossos agradecimentos à **Profa. Thalita Moschini Cavalcanti Terr
 
 ---
 
+![Renato palestrando 1](img/vscode-piracicaba-18.jpg)
 
+![Renato palestrando 2](img/vscode-piracicaba-10.jpg)
+
+![Renato palestrando 3](img/vscode-piracicaba-12.jpg)
+
+Murilo palestrando
+
+2
+
+4
+
+8
+
+Workshop
+
+79
+
+95
+
+82
 
 ![Instagram](img/instagram.png)
 
