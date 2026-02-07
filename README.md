@@ -20,10 +20,16 @@ Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações
 
 Formulário utilizado para inscrições: [**Eventiza**](https://eventiza.com.br/evento/devpira-vs-code-dev-days-Bp8sl5wY2jNDycaw8Gra)
 
+Divulgação em redes sociais: [**Instagram**](https://www.instagram.com/p/DPYjiMUkyHb/)
+
 Local: **Faculdade Anhanguera - Rua Santa Catarina, 1005 - Vila Gertrudes - Piracicaba-SP - CEP: 04705-000**
 
 Deixamos aqui nossos agradecimentos à **Profa. Thalita Moschini Cavalcanti Terrini (Faculdade Anhanguera)** pela oportunidade e todo o apoio para promovermos esta edição local do VS Code Dev Days em Piracicaba-SP.
 
 ---
 
-Fotos...
+
+
+![Instagram](img/instagram.png)
+
+![Banner](img/banner.jpg)
