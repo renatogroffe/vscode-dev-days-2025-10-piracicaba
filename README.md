@@ -10,9 +10,25 @@ Organizadores:
 
 Número de participantes: **33 pessoas**
 
+Conteúdos (slides + exercício) utilizados durante o evento: **https://github.com/dev-pira/vs-code-dev-days-2025**
+
 ---
 
 Apresentações/painéis que aconteceram durante o evento...
+
+_# Técnicas Essenciais para uso do GitHub Copilot no VS Code_
+
+Palestrante: **Murilo Beltrame (DEVPIRA)**
+
+Tecnologias e tópicos abordados: **Visual Studio Code, GitHub Copilot, Agents, IAs Generativas, LLMs, .NET...**
+
+_# Model Context Protocol (MCP) - Descomplicando integrações no mundo da IA: uma visão geral_
+
+Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, APISec U Ambassador, MTAC)**
+
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub Copilot, Visual Studio Code, Docker, Docker Compose, Docker MCP Catalog, .NET, ASP.NET Core, C#, Azure API Management, Java, Node.js, Python, Claude, Cursor, OpenAI, PostgreSQL, SQL Server, Linux...**
+
+COLOCAR AQUI O WORKSHOP
 
 ---
 
