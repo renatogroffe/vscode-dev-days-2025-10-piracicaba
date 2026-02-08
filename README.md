@@ -14,7 +14,7 @@ Conteúdos (slides + exercício) utilizados durante o evento: **https://github.c
 
 ---
 
-Apresentações/painéis que aconteceram durante o evento...
+Apresentações que aconteceram durante o evento...
 
 _# Técnicas Essenciais para uso do GitHub Copilot no VS Code_
 
