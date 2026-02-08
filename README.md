@@ -28,7 +28,15 @@ Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, APISec U Ambassador
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub Copilot, Visual Studio Code, Docker, Docker Compose, Docker MCP Catalog, .NET, ASP.NET Core, C#, Azure API Management, Java, Node.js, Python, Claude, Cursor, OpenAI, PostgreSQL, SQL Server, Linux...**
 
-COLOCAR AQUI O WORKSHOP
+---
+
+E tivemos ainda uma sessão prática com o **Workshop "Integre MCP com GitHub Copilot¨**.
+
+Instrutores:
+- **Renato Groffe (Microsoft MVP, Docker Captain, APISec U Ambassador, MTAC)**
+- **Murilo Beltrame (DEVPIRA)**
+
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub Copilot, Visual Studio Code, Docker, Python, Linux, GitHub Codespaces...**
 
 ---
 
@@ -44,17 +52,17 @@ Deixamos aqui nossos agradecimentos à **Profa. Thalita Moschini Cavalcanti Terr
 
 ---
 
-![Renato palestrando 1](img/vscode-piracicaba-18.jpg)
-
-![Renato palestrando 2](img/vscode-piracicaba-10.jpg)
-
-![Renato palestrando 3](img/vscode-piracicaba-12.jpg)
-
 ![Murilo palestrando 1](img/vscode-piracicaba-02.jpg)
 
 ![Murilo palestrando 2](img/vscode-piracicaba-04.jpg)
 
 ![Murilo palestrando 3](img/vscode-piracicaba-08.jpg)
+
+![Renato palestrando 1](img/vscode-piracicaba-18.jpg)
+
+![Renato palestrando 2](img/vscode-piracicaba-10.jpg)
+
+![Renato palestrando 3](img/vscode-piracicaba-12.jpg)
 
 ![Workshop 1](img/vscode-piracicaba-79.jpg)
 
